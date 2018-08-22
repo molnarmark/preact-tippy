@@ -1,0 +1,25 @@
+{
+  "name": "preact-tippy",
+  "reveal": true,
+  "description": "Tippy.js component for Preact.",
+  "author": "Mark Molnar <molnarpw@gmail.com>",
+  "main": "preact-tippy.js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "peerDependencies": {
+    "preact": "*"
+  },
+  "dependencies": {
+    "tippy.js": "^2.5.4"
+  },
+  "keywords": [
+    "preact",
+    "tippy.js",
+    "popup",
+    "preact-component",
+    "popperjs",
+    "popper",
+    "pop-up",
+    "pop up"
+  ]
+}

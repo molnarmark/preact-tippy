@@ -50,7 +50,7 @@ export default class App extends Component {
 ### API
 
 Every [Tippy](https://atomiks.github.io/tippyjs/v1/index.html) configuration option is available through the `config` prop.\
-You can check out every option [here](https://atomiks.github.io/tippyjs/v1/index.html#all-settings).\
+You can check out every option [here](https://atomiks.github.io/tippyjs/v1/index.html#all-settings).
 
 #### Available Props
   - title: The text that will be inside the popup.
